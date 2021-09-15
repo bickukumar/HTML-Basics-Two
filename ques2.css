@@ -1,0 +1,21 @@
+.outer-block {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  display: flex;
+  padding: 8px;
+  flex-direction: column;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 8px;
+}
+
+.radio-class {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
